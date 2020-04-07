@@ -8,5 +8,8 @@ Clerk Acc
 Daily Wages Acc
 
 
+Manager1 Acc
+Manager2 Acc
+
 
 Thank You :)
