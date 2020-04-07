@@ -4,4 +4,5 @@ Welcome to Account file
 
 Manager Acc
 Employee Acc
-Clerk Acc....
+Clerk Acc
+Daily Wages Acc
