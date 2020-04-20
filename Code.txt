@@ -10,3 +10,5 @@ String s3=s2;
 System.out.println(s3);
 }
 }
+
+code is completed
